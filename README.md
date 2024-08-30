@@ -1,6 +1,7 @@
 # Drone Tracking System
 
 This project involves real-time detection and tracking of a high-speed drone using stereo vision. The system uses two cameras to capture video frames, compute the disparity map, and estimate the drone's distance and speed.
+[Read More about the Problem here](https://github.com/Demon-2-Angel/Drone-Tracking/blob/main/Solution/README.md)
 
 ## Features
 
@@ -16,9 +17,9 @@ This project involves real-time detection and tracking of a high-speed drone usi
 ## Installation
 
 1. **Install Dependencies**: Install the required Python packages using pip:
-   ```bash
+   ```
    pip install opencv-python
-
+   ```
 3. Prepare Cameras: Connect two USB cameras to your computer. The cameras should be recognized as device indices 0 and 1 by OpenCV.
 
 
